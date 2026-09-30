@@ -1,7 +1,7 @@
 // GamanMedi Firebase web configuration.
 // Copy these values from Firebase Console > Project settings > Your apps > Web app.
 // These client-side config values are not service-account secrets.
-window.const firebaseConfig = {
+const firebaseConfig = {
   apiKey: "AIzaSyCaYQsf3yFn_UrQd_grApJMGKobQMunRN4",
   authDomain: "gamanmedi-cfc6f.firebaseapp.com",
   projectId: "gamanmedi-cfc6f",
