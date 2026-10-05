@@ -2,7 +2,7 @@
 // Client-side Firebase web config is safe to include in the browser.
 window.GAMANMEDI_FIREBASE_CONFIG = {
   apiKey: "AIzaSyCaYQsf3yFn_UrQd_grApJMGKobQMunRN4",
-  authDomain: "gamanmedi-cfc6f.firebaseapp.com",
+  authDomain: "https://medizone-theta.vercel.app",
   projectId: "gamanmedi-cfc6f",
   storageBucket: "gamanmedi-cfc6f.firebasestorage.app",
   messagingSenderId: "287113762309",
